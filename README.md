@@ -20,7 +20,7 @@ After running the server.py file you can use these commands to navigate around.
 
 pip3 install -r requirements.txt
     
-![Logo](https://i.imgur.com/ZANgu42.png)
+![Logo](https://i.imgur.com/AnbzDRm.png)
 
     
 ## Current Contributors
